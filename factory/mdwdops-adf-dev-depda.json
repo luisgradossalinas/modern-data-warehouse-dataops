@@ -1,5 +1,10 @@
 {
 	"name": "mdwdops-adf-dev-depda",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
 	"location": "westus",
 	"identity": {
 		"type": "SystemAssigned",
